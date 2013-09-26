@@ -21,10 +21,11 @@ More about `A template Alfred Workflow repo to get your next workflow started.`.
 ![alt text][alfred]
 
 ## Commands
-`blank` - what happens
+- `blank` - what happens
+- `blank {query}` - what happens with search query
+- `blank {optionA|optionB}` - option A & B are the only options
 
-`blank {query}` - what happens with search query
-
-`blank {optionA|optionB}` - option A & B are the only options
+## Contributors
+- [@willfarrell](https://github.com/willfarrell)
 
 [alfred]: ./screenshots/alfred.png "Blank Workflow"
